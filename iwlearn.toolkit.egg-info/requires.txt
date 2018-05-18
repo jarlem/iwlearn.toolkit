@@ -1,0 +1,17 @@
+setuptools
+plone.app.caching
+Solgema.fullcalendar
+Products.feedfeeder
+collective.portletpage
+plone.app.redirector
+Products.RedirectionTool
+collective.videolink
+collective.geo.contentlocations
+collective.geo.kml
+collective.geo.flexitopic
+collective.geo.file
+Products.EasyNewsletter
+collective.captcha
+z3c.jbot
+collective.ots
+iwlearn.theme
